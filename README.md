@@ -1,3 +1,9 @@
+##Hello my fellow!
+
+I've just changed the README to make easier your experience with my project. I've made my code to work in each file, with a independent way. But, dont forget to copy the txt data file on the work directory.
+Enjoy!
+
+
 ## Introduction
 
 This assignment uses data from
